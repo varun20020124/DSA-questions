@@ -1,0 +1,6 @@
+# ignore language‑specific artifacts
+node_modules/
+*.pyc
+__pycache__/
+*.class
+*.o
