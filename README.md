@@ -1,7 +1,9 @@
 # DSA‑Questions
 
-A curated collection of Data Structures & Algorithms problem solutions, **organized topic‑wise** for easy navigation and study.
+A collection of Leetcode Problem solution **organized topic‑wise**
 
 ## Repository Structure
+
+### 1. Arrays
 
 
