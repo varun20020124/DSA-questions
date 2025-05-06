@@ -1,6 +1,6 @@
 # DSA‑Questions
 
-A collection of Leetcode Problem solution **organized topic‑wise**
+A collection of Leetcode Problem solutions **organized topic‑wise**, a Work in Progress
 
 ## Repository Structure
 
