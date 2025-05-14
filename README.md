@@ -11,6 +11,8 @@ A collection of Leetcode Problem solutions **organized topic‑wise**, a Work in
 ### 5. Trees
 ### 6. Heaps
 ### 7. Graphs
-### 8. Greedy 
+### 8. Greedy Algorithms & Intervals
 ### 9. Backtracking
 ### 10. Dynamic Programming
+### 11. Bit Manipulation
+### 12. Math & Geometry
