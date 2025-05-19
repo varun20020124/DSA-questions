@@ -4,7 +4,7 @@ class Node:
         self.next = None
 class Solution:
     def reverseList(self,head):
-        curr = head
+        curr = head 
         prev = None
         while curr:
             temp = curr.next
