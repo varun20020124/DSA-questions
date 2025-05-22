@@ -1,6 +1,9 @@
 import heapq
 class Solution:
     def maxSlidingWindow(self, nums, k):
+        '''
+        O(NlogN) : not optimal
+        '''
         for i in range(len(nums)):
             nums[i] = -nums[i]
         i,j = 0,k
