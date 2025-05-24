@@ -2,6 +2,7 @@ class Node:
     def __init__(self, val = 0, next = None):
         self.val = val
         self.next = next
+class Solution:
     def mergeTwoLists(self, list1, list2):
         dummy = Node(0)
         curr = dummy
