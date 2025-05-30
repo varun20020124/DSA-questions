@@ -8,7 +8,7 @@ class Solution:
             directions = [(1,0),(-1,0),(0,1),(0,-1)]
             while q:
                 x,y = q.popleft()
-                grid[x][y] = 0
+                grid[x][y] = "0"
                 for d in directions:
                     nx, ny = x+d[0], y+d[1]
                     if 0<=nx<len(grid) and 0<=ny<len(grid[0]) and grid[nx][ny] == "1":
