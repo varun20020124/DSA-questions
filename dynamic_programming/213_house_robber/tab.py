@@ -14,4 +14,4 @@ class Solution:
                 dp[i] = max(arr[i]+dp[i-2],dp[i-1])
             return dp[-1]
         return max(tab(nums[1:]),tab(nums[:n-1]))
-        
+    
